@@ -1,3 +1,3 @@
-## NFT Minting & Development
+## CrescentCity.eth - Beta Launch
 
-CrescentCity.eth is a decentralized website hosted on IPFS and registered by ENS. CrescentCity.eth is available on any Web 3.0 browser, including Metamask, Brave and Opera. Or you can visit crescentcity.eth.link on a traditional DNS browser.
+This is a decentralized website hosted on IPFS and registered by <a href="https://app.ens.domains/">ENS</a>.
